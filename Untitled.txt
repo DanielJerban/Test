@@ -1,17 +1,3 @@
-commentOn   DynamicFormService/Create
-commentOn   Util/RenderRazorViewToString
-commentOn   RouteAuthorizeAttribute
-commentOn   EventActionFilter
-commentOn   WorkflowEsbRepository/FillDataForMessages
-commentOn   ControllerHelper/GetControllersNameAndPolicy
-commentOn   ControllerHelper/GetActionPolicyList
-commentOn   JobService/RunTimerStartEvent
-commentOn   ExceptionsRepository/GetByPaging
-commentOn   RoleRepository/GetControllersPolicies
-commentOn   CompileRuntime
-commentOn   WorkflowFormRepository/GetPropertiesFromStaticForm
-commentOn   FlowService/AutoAcceptScriptTaskFlow
-commentOn   FlowService/GetNextFlowStaff
-commentOn   ScheduleService/ExecuteScheduleCode
+https://t.me/proxy?server=131.153.158.59&port=443&secret=EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D
 
-vless://38d53c1a-32de-4a6e-ac1b-04e2d7519d94@map.v2rayng1.com:443?type=tcp&path=%2F&host=telewebion.com&headerType=http#233355
+https://t.me/proxy?server=Aloudflare.com.nokia.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.hbhb-b2ho.sbs.&port=7443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
